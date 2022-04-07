@@ -1,5 +1,5 @@
 <h1 class="name" style="border: none">Hi! I'm Ilya Fomko</h1>
-<h2 style="border: none">I'm computer science student and this my github profile</h2>
+<p>I'm computer science student and this my github profile</p>
  
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iffomko&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iffomko&theme=solarized_dark)

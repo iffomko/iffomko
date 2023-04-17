@@ -13,3 +13,6 @@
 </p>
 
 <h2 class="name" style="border: none">Мои навыки:</h1>
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" width="40px" height="40px"/>
+</div>

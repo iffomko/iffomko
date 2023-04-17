@@ -3,7 +3,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+computer+science+student)
 
 <p align="left">
-  :computer: Обучаюсь на втором курсе Компьютерной безопасности
+  :computer: Обучаюсь на втором курсе Компьютерной безопасности (МатМех)
   <br>
   :notebook_with_decorative_cover: Хорошо знаю английский язык (уровень A2-B1)
   <br>

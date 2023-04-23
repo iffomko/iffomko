@@ -12,7 +12,7 @@
   :video_game: В свободное время люблю смотреть фильмы и сериалы, читать книжки, ходить в зал, играть в компьютерные игры
 </p>
 
-<h2 class="name" style="border: none">Мои навыки:</h1>
+<h2 class="name" style="border: none">Мои стек:</h1>
 <div>
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
